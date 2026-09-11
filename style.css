@@ -43,8 +43,9 @@ body {
 }
 
 .title-en {
-  font-family: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
-  font-weight: 600;
+  font-family: "EB Garamond", Georgia, serif;
+  font-weight: 700;
+  font-style: italic;
   letter-spacing: 0.01em;
 }
 
