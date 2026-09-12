@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 402" width="120" height="402" role="img" aria-labelledby="wordmark-title wordmark-description" color="#343c36">
+  <title id="wordmark-title">李欣哲</title>
+  <desc id="wordmark-description">Original vertical Chinese wordmark. Selected horizontal strokes are implied by detached triangular terminals. Each visible stroke is an editable vector outline.</desc>
+  <g fill="#343c36">
+    <!-- 李: the wood radical and the descending hook remain continuous. -->
+    <g id="li" transform="translate(10 8)">
+      <path id="li-stem" d="M47 3 L56 6.6 L52.8 9.9 L52.8 41.5 Q52.8 43.5 47.9 44.4 L47.9 12.2 Q47.9 6.9 47 3 Z"/>
+      <path id="li-upper-terminal" d="M76.5 23 L83.5 15.8 L92 23 Z"/>
+      <path id="li-left-sweep" d="M44.8 28.5 L50.2 31.7 C40 44.5 23.5 54.9 7.8 60.4 C24 50.6 35.6 40.3 44.8 28.5 Z"/>
+      <path id="li-right-sweep" d="M57.5 30.4 C66.4 39.9 79 45.9 94.2 48.5 C89.5 49.4 87.8 50.9 86.7 53.1 C72.9 48.9 62.9 41.9 57.5 30.4 Z"/>
+      <path id="li-descending-stroke" d="M65 56 L69 51 L73 55.5 C68.6 59.2 61.2 64.4 54 69.6 L53 68.5 Q60 61.6 65 56 Z"/>
+      <path id="li-lower-terminal" d="M78 80.3 L85.2 73.2 L93.6 80.3 Z"/>
+      <path id="li-hook" d="M47.2 67.5 L56.3 71.1 L53.4 74.4 L53.4 94.3 C53.4 100.3 50.1 103.7 44.3 104.6 C43.8 101.4 39.9 99.1 32.9 97.7 L33.1 96.5 C39.5 97.6 44.9 98.3 47 97.4 C48.2 96.9 48.5 95.9 48.5 94 L48.5 77.5 Q48.5 72.1 47.2 67.5 Z"/>
+    </g>
+    <!-- 欣: two separated groups; both lower sweeps taper to a hairline. -->
+    <g id="xin" transform="translate(10 146)">
+      <path id="xin-upper-sweep" d="M22.2 22 Q35 15.1 42.9 8.2 L49.4 15.3 Q36.9 18 22.3 24 Z"/>
+      <path id="xin-left-sweep" d="M17 20 L24.4 23.1 L22 27.2 L21.8 50 C21.5 72.4 16.1 88.5 6.5 99.1 C13.5 85.4 16.5 69.2 16.6 49.1 L16.6 31.3 Q16.6 24.9 17 20 Z"/>
+      <path id="xin-left-terminal" d="M33 44.9 L39.5 38.3 L47.3 44.9 Z"/>
+      <path id="xin-left-stem" d="M32.7 49 L40.4 51.8 L37.8 55 L37.8 95.4 Q37.8 97.3 32.6 98.4 Q33.5 77 33.5 59.1 Q33.5 53.9 32.7 49 Z"/>
+      <path id="xin-upper-right-sweep" d="M67.3 7.7 L75.8 11.6 L72.6 14.1 C68.9 27.3 63.9 37.4 54.7 47.8 C60.6 35.1 65 20.3 67.3 7.7 Z"/>
+      <path id="xin-right-terminal" d="M84 28.8 L90.2 23.2 L98 29.9 Q89.6 36 83 45.8 L81.9 45.1 Q84.8 37 86.3 31.6 Z"/>
+      <path id="xin-falling-left" d="M70.2 46.1 L79.1 49.6 L75.5 52.7 C74.1 76.9 63.1 92 45.7 101 C61.1 87.5 69.4 70.6 70.2 46.1 Z"/>
+      <path id="xin-falling-right" d="M78.1 56.9 C80.1 73.7 88 88.3 99.3 94.7 C94.6 95.4 93.1 96.7 92.2 98.7 C83.1 89.2 78.5 74.8 78.1 56.9 Z"/>
+    </g>
+    <!-- 哲: the upper-right terminal extends past its stem; both mouth horizontals are omitted. -->
+    <g id="zhe" transform="translate(10 284)">
+      <path id="zhe-left-hook" d="M25.8 2.1 L34.6 5.5 L31.5 8.6 L31.5 52 C31.5 58 28.7 61.4 23.6 62.4 C23.2 59.5 19.7 57.5 14 56.3 L14.1 55.2 C18.5 55.8 22.4 56.3 24.6 55.7 Q26.3 55.3 26.3 52.2 L26.3 14 Q26.3 6.8 25.8 2.1 Z"/>
+      <path id="zhe-left-terminal" d="M37.8 22.7 L43.8 16.6 L51.1 22.7 Z"/>
+      <path id="zhe-rising-stroke" d="M8.5 40.6 Q24.8 37.6 44.9 30.8 L45.3 32.1 Q29.9 39.6 13.2 47 Z"/>
+      <path id="zhe-upper-sweep" d="M58.6 20 Q72.9 13.7 82.8 6.8 L89.1 13.7 Q72.2 17.4 58.8 22 Z"/>
+      <path id="zhe-right-sweep" d="M52.9 17.9 L60.2 21.3 L57.9 24.3 C58.7 44.1 53 55.6 42.7 64.5 C50 52.6 53.3 42.3 53.2 29.5 Z"/>
+      <path id="zhe-right-terminal" d="M81.4 34.3 L88.1 27.7 L96 34.3 Z"/>
+      <path id="zhe-right-stem" d="M72.2 38.2 L80.3 41.1 L77.6 44.5 L77.6 60.7 Q77.6 62.6 72.3 63.5 Q73.1 49.9 72.2 38.2 Z"/>
+      <path id="zhe-mouth-left" d="M25.6 70 L32.6 73.1 L30.5 76 L30.5 100.5 L25.8 102 Z"/>
+      <path id="zhe-mouth-right" d="M71 72.3 L79.4 65.1 L88 72.3 L77.8 72.3 L77.8 99.9 L73 101.5 L73 72.3 Z"/>
+    </g>
+  </g>
+</svg>
