@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://julianxli.github.io/sitemap.xml
+Sitemap: https://xinzhezackli.github.io/sitemap.xml
