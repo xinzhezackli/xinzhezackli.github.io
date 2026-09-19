@@ -1,0 +1,46 @@
+.essay-nav {
+  margin-bottom: 2.5rem;
+}
+
+.essay-header {
+  margin-bottom: 2rem;
+}
+
+.essay-header h1 {
+  text-align: left;
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  line-height: 1.2;
+}
+
+.essay-byline {
+  color: var(--muted-text);
+}
+
+.essay-text p {
+  text-align: left;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+.essay-sources {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--soft-border);
+}
+
+.essay-sources summary {
+  cursor: pointer;
+}
+
+.essay-sources li {
+  margin-bottom: 1rem;
+  overflow-wrap: anywhere;
+}
+
+.essay-text a:focus-visible,
+.essay-nav a:focus-visible,
+.essay-sources a:focus-visible,
+.essay-sources summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
